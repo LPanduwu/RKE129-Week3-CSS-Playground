@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Rubik+Puddles&display=swap');
+body {
+    background-color: bisque;
+}
+.heading {
+    text-align: center;
+}
+.playground-heading {
+    color: blueviolet;
+    font-family: 'Rubik Puddles', cursive;
+    font-size: 4rem;
+}
+.main {
+    border: 2px solid purple;
+    width: 50%;
+    margin: 0 auto;
+}
+.main div {
+    width:200px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+#light {
+    color: skyblue;
+}
+#medium {
+    color: royalblue;
+}
+#dark {
+    color: navy;
+}
+.footer {
+    text-align: center;
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 1rem;
+    color: indigo;
+}
